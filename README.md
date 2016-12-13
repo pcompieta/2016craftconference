@@ -3,11 +3,11 @@ My personal cut of the great 2016 Craft Conference in Budapest.
 # Abstract
 - **Marty Cagan - Great Product Team, Successful Product** - http://www.ustream.tv/recorded/86159035 (closing day1)
 - **Dan North - Embracing uncertainty: why you should and why you won't** - http://www.ustream.tv/recorded/86148915 (opening day1)
-> Agile is about shifting the focus of risk management from reducing uncertainty to managing impact (make it safe to fail)
-> Sustainably minimize Time To "Business Impact"
+  - Agile is about shifting the focus of risk management from reducing uncertainty to managing impact (make it safe to fail)
+  - Sustainably minimize Time To "Business Impact"
 - Mary Poppendieck - The Future is Here, it's just not evenly distributed - http://www.ustream.tv/recorded/86186139
-> Products have features. Platforms have communities.  
-> Future: open Banking is coming to EU  
+  - Products have features. Platforms have communities.  
+  - Future: open Banking is coming to EU  
 - Tim Steigert - Hacking Monkeys: a practitioners guide - http://www.ustream.tv/recorded/86189707 (closing conference, intro by Mary Poppendieck)
 
 # Practices & Processes
