@@ -1,6 +1,8 @@
-My personal cut of the great 2016 Craft Conference in Budapest.
+# My personal cut of the great 2016 Craft Conference in Budapest.
 
-# Abstract
+Eventually, don't forget to have a look at these [awesome notes](https://drive.google.com/file/d/0B25lOkQ6qI3YdWpScHo0NEp1dnM/view) by [Remarker_EU](https://twitter.com/Remarker_eu).
+
+## Abstract
 - **Marty Cagan - Great Product Team, Successful Product** - http://www.ustream.tv/recorded/86159035 (closing day1)
 - **Dan North - Embracing uncertainty: why you should and why you won't** - http://www.ustream.tv/recorded/86148915 (opening day1)
   - Agile is about shifting the focus of risk management from reducing uncertainty to managing impact (make it safe to fail)
@@ -10,7 +12,7 @@ My personal cut of the great 2016 Craft Conference in Budapest.
   - Future: open Banking is coming to EU  
 - Tim Steigert - Hacking Monkeys: a practitioners guide - http://www.ustream.tv/recorded/86189707 (closing conference, intro by Mary Poppendieck)
 
-# Practices & Processes
+## Practices & Processes
 - **Doc Norton - The Technical Debt Trap** - http://www.ustream.tv/recorded/86180723
   - Do not be reckless: cruft is not debt! 
 - **Joseph Pelrine - Psychological Aspects of Estimating** - http://www.ustream.tv/recorded/86177623 (opening day2)
@@ -28,8 +30,8 @@ My personal cut of the great 2016 Craft Conference in Budapest.
   - Analyze also architecture to find hidden coupling (e.g. shared lib in microservices)  
 - Michael Feathers - Symbiotic Design Practices - http://www.ustream.tv/recorded/86186717 (missed)
 
-# Tech
-## Microservices
+## Tech
+### Microservices
 - **Dan North - Microservices: Software that Fits in your Head** - http://www.ustream.tv/recorded/86179657 (missed)
 - Adrian Cockcroft - The Evolution of Microservices - http://www.ustream.tv/recorded/86151804
 - **Matt Ranney - What I Wish I Knew Before Scaling Uber to 1,000 Services** - http://www.ustream.tv/recorded/86156847
@@ -39,21 +41,21 @@ My personal cut of the great 2016 Craft Conference in Budapest.
 - **Sam Newman - Deploying and Scaling Microservices** - http://www.ustream.tv/recorded/87127615
   - Microservices: aim for independent deployability. (This removes complex deployment processes)
 
-## Front-end
+### Front-end
 - Jessica Kerr - Adventures in Elm: Question Your Principles - http://www.ustream.tv/recorded/86157626
   - Functional language compiling to Javascript.. relax, finally.  
   - How would you test this? This is functional stuff.. you dont need tests  
 
-## IoT & Big Data
+### IoT & Big Data
 - **Danilo Poccia - Connecting the Unconnected: IoT Made Simple** - http://www.ustream.tv/recorded/86180860
   - IoT by configuration, powered by AWS
 - Boaz Avital - Providing Flexible Database Consistency Levels with Manhattan at Twitter - http://www.ustream.tv/recorded/86185189
   - Tuning DB consistency at runtime
 
-## Java
+### Java
 - Kirk Pepperdine - Java Performance Tuning (hands-on session) - http://www.ustream.tv/recorded/86183868 (missed)
 
-# Meetups
+## Meetups
 - Matt Ranney - Database Disasters - http://www.ustream.tv/recorded/88122522
   - Databases require great care, even the simplest ones
 - Steve Freeman - Rediscovering the command line, or Your Data isnâ€™t that Big - http://www.ustream.tv/recorded/88122539
